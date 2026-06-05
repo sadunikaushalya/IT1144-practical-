@@ -1,0 +1,35 @@
+.heder{
+	display:flex;
+}
+
+
+
+.title{
+	flex:6;
+	text-align:center;
+	margin-top:50px;
+	color:darkblue;
+}
+
+.nav-image img{
+	width:100%;
+}
+.navigationbar li{
+
+	list-style:none;
+	margin:20px;
+}
+.navigationbar li a{
+	text-decoration:none;
+}
+.navigationbar li a:hover{
+	background-color:#474769;
+	padding:10px;
+	color:white;
+}
+.navigationbar{
+	list-style:none;
+	display:flex;
+	justify-content:center;
+}
+	
